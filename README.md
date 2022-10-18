@@ -1,3 +1,3 @@
 ---
-Author - Aaryan Sign Snadhu: design and develop a calculator
+Author - Aaryan Sign Snadhu: design and develop a Digital outcome
 ---
