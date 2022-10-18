@@ -1,3 +1,3 @@
 ---
-Author - Aaryan Sign Snadhu: Design and develop a Digital outcome
+Author - Aaryan Sign Snadhu: Design and Develop a Digital Outcome
 ---
